@@ -1,0 +1,8 @@
+boto3
+warcio
+beautifulsoup4
+lxml
+python-magic
+magika
+lingua-language-detector
+surt
